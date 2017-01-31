@@ -1,0 +1,182 @@
+/*
+	Theme Name: SoulSouth
+	Theme URI: //leonardjackson.me/
+	Description: Theme tailored for restaurant owners
+	Version: 1.0
+	Author: Leonard "Leo" Jackson
+	Author URI: //leonardjackson.me/
+*/
+
+body {
+	background-color: #2d2d2d !important;
+}
+
+a {
+	color: #f2f2f2;
+} 
+
+header {
+	background-color: #2d2d2d;
+	border-bottom: 4px solid #f2f2f2;
+}
+
+.site-logo {
+	color: #f2f2f2;
+}
+
+.site-title a {
+	color: #f2f2f2;
+}
+
+.site-title-head, .contact-head {
+	height: 130px;
+	padding: 5px;
+	margin: 5px;
+	padding-left: 25px;
+	color: #f2f2f2;
+}
+
+.contact-head {
+	/*padding-top: 25px;*/
+}
+
+.contact-head p {
+	font-size: 16px;
+	margin: 0 auto;
+}
+
+.nav-row {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+nav > .navbar {
+	/*margin-top: 0px;*/
+}
+
+.my-nav {
+	background-color: #f2f2f2 !important;
+	box-shadow: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #ddd;
+}
+
+.my-well {
+	color: #f2f2f2;
+	background: #2d2d2d;
+	min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  border: 1px solid #2d2d2d;
+  border-radius: none;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.jumbotron {
+	background: url(http://content-management.leonardjackson.me/wp-content/uploads/2014/11/Basting-Ribs-on-Grill.jpg) center;
+	resize-height: 600px;
+	height: 600px;
+	border: 4px solid #f2f2f2;
+}
+
+.jumbo-text {
+	color: #f2f2f2;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.food-menu {
+	/*background-color: #f2f2f2;*/
+}
+
+.food-menu-item figure {
+	height: 375px;
+  margin-bottom: 20px;
+}
+
+.food-menu-item figure .img-crop {
+  height: 150px;
+  overflow: hidden;
+}
+
+.food-menu-item .caption ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.food-menu-item .post-meta {
+  font-style: italic;
+}
+
+.food-menu-item .post-meta-key {
+  display: none;
+}
+
+.food-menu-item:nth-child(4n+1){
+  clear: both;
+}
+
+figure img {
+	max-width: 100%;
+}
+
+.gallery .gallery-item {
+  width: 30%;
+  height: 200px;
+  margin-right: 3%;
+  float: left;
+  overflow: hidden;
+}
+
+.gallery .gallery-item img {
+  max-width: 100%;
+}
+
+footer {
+	margin-top: -30px;
+	width: 100%;
+	background-color: #2d2d2d;
+	border-top: 4px solid #f2f2f2
+}
+
+.footer-row {
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: -25px;
+	background-color: #2d2d2d;
+	color: #f2f2f2;
+}
+
+.widget.col-md-4 {
+	padding: 0;
+}
+
+.textwidget {
+	padding: 10px 30px;
+	font-size: 16px;
+}
+
+.widgettitle {
+	border-top: 2px solid #2d2d2d;
+	text-align: center;
+	margin-top: 0;
+	padding: 10px;
+	background-color: #f2f2f2;
+	color: #333;
+}
